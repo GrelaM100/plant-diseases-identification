@@ -162,3 +162,17 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+/model_ca_based_plantvillage/
+/model_lda_based_plantdoc/
+/model_lda_based_plantvillage/
+/model_lda_based_sepconv_plantdoc/
+/model_lda_based_sepconv_plantvillage/
+/model_mobilenetv2_regularized_plantdoc/
+/model_mobilenetv2_regularized_pvd/
+/model_pca_based_plantdoc/
+/model_pca_based_plantvillage/
+/model_pca_based_sepconv_plantdoc/
+/model_pca_based_sepconv_plantvillage/
+/model_squeeze_excite_resnet_plantdoc/
+/model_squeeze_excite_resnet_pvd/
+/vit-base-plant-village/
